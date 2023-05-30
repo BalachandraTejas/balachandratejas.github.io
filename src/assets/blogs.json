@@ -1,0 +1,39 @@
+[
+  {
+    "id": 2,
+    "slug": "blog-in-react",
+    "title": "Blog in React, using github pages",
+    "date": "29th May, 2023",
+    "topics": ["React JS", "GitHub"],
+    "thumbnail": "https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=173&q=80",
+    "heroImg": "https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=773&q=80",
+    "desc": [
+      {
+        "id": 1,
+        "heading": "Introduction",
+        "showHeading": true,
+        "text": "Personal Branding was always on my mind. Without the environment of peers, thoughts did not materialize. The stack of business cards have eaten enough dust and found their way to the trash can. Boils down to two things. Firstly, what content would I be able to create. Secondly, would I be able to do this for long term(at least 2 to 3 years).",
+        "image": "https://images.pexels.com/photos/326576/pexels-photo-326576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=350&dpr=1",
+        "imagePos": "right"
+      },
+      {
+        "id": 2,
+        "heading": "The content I want to post",
+        "showHeading": true,
+        "text": "I would start small. Not focusing on building tutorials or long form content. I do not want to be preachy. "
+      },
+      {
+        "id": 3,
+        "heading": "This Blog",
+        "showHeading": false,
+        "text": "Used Create-React-App to create the initial folder structure. With minimal lines of CSS and handful of components tried to create a blog like interface. The blog data is written in a json file. Writing a new blog post is like, creating a new json object. To host the blog, there were a lot of free solutions. I opted to put my blog in GitHub pages. Apart from being free, the entire content and design will be in one repo. Hoping it would be easy to manage."
+      },
+      {
+        "id": 2,
+        "heading": "Conclusion",
+        "showHeading": false,
+        "text": "See you in the next one."
+      }
+    ]
+  }
+]

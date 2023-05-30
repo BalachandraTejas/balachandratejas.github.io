@@ -1,0 +1,55 @@
+.post {
+  max-width: 90%;
+  width: 750px;
+}
+
+.hero {
+  max-width: 750px;
+  max-height: 200px;
+  overflow: hidden;
+}
+
+.hero-img {
+  width: 100%;
+  transform: translateY(-26%);
+}
+
+.row {
+  display: flex;
+  gap: 1em;
+  align-items: flex-start;
+}
+
+.text {
+  max-width: fit-content;
+}
+
+.row img {
+  min-width: 300px;
+  max-width: 90%;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+footer {
+  border-top: 1px solid #ccc;
+  margin-top: 3em;
+  padding: 2em 0;
+}
+
+.to-home {
+  font-size: 3em;
+  color: #ccc;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 500px) {
+  .row {
+    flex-direction: column;
+  }
+  .reverse {
+    flex-direction: column-reverse;
+  }
+}

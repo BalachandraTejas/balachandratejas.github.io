@@ -1,0 +1,18 @@
+{
+  "title": "Bala Learns to Code",
+  "image": "https://media.licdn.com/dms/image/C5603AQHHweqWX38vfw/profile-displayphoto-shrink_800_800/0/1643213075491?e=1690416000&v=beta&t=ceB1YYXEZq0bkLaRGaDFSsImPGuhKHAxKUMfrj3PwIc",
+  "name": "Bala Chandra Tejaswi Bitra",
+  "role": "Frontend Developer",
+  "lastUpdated": "Last updated on May 2023",
+  "intro": [
+    {
+      "id": 1,
+      "text": "A professional developer for four years. Mostly working on Frontend technologies. Recently, digging deep into HTML semantics."
+    },
+    {
+      "id": 1,
+      "text": "I value simplicity and first-principles thinking. Love working on interactive products no matter the backend/infra."
+    }
+  ],
+  "skills": ["React JS", "HTML", "CSS"]
+}
