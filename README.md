@@ -6,6 +6,8 @@
 
 - Apart from React JS, no other frameworks used.
 
+- To deploy via GitHub pages, need to follow these instructions from [create-react-app.dev](https://create-react-app.dev/docs/deployment/#github-pages)
+
 ## Todo
 
 1. Adding support for links inside blog content.

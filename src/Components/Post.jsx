@@ -5,7 +5,7 @@ import '../assets/Post.css';
 function Post() {
   let { slug } = useParams();
   const post = blogs.find((blog) => blog.slug === slug);
-  console.log(slug);
+
   return (
     <article className="post">
       <h1>{post.title}</h1>
