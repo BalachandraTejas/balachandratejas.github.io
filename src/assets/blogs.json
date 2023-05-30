@@ -1,6 +1,6 @@
 [
   {
-    "id": 2,
+    "id": 1,
     "slug": "blog-in-react",
     "title": "Blog in React, using github pages",
     "date": "29th May, 2023",
@@ -29,7 +29,7 @@
         "text": "Used Create-React-App to create the initial folder structure. With minimal lines of CSS and handful of components tried to create a blog like interface. The blog data is written in a json file. Writing a new blog post is like, creating a new json object. To host the blog, there were a lot of free solutions. I opted to put my blog in GitHub pages. Apart from being free, the entire content and design will be in one repo. Hoping it would be easy to manage."
       },
       {
-        "id": 2,
+        "id": 4,
         "heading": "Conclusion",
         "showHeading": false,
         "text": "See you in the next one."

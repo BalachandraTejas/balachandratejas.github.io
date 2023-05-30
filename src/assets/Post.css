@@ -20,10 +20,6 @@
   align-items: flex-start;
 }
 
-.text {
-  max-width: fit-content;
-}
-
 .row img {
   min-width: 300px;
   max-width: 90%;

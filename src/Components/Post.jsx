@@ -24,7 +24,7 @@ function Post() {
         <section className="article-section" key={row.id}>
           {row.showHeading && <h3>{row.heading}</h3>}
           <p className={'row' + (row.imagePos === 'left' ? ' reverse' : '')}>
-            <div className="text">{row.text}</div>
+            {row.text}
             {row.image && <img src={row.image} alt={row.heading} />}
           </p>
         </section>
