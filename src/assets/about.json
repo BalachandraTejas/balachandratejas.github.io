@@ -7,11 +7,11 @@
   "intro": [
     {
       "id": 1,
-      "text": "A professional developer for four years. Mostly working on Frontend technologies. Recently, digging deep into HTML semantics."
+      "text": "A professional developer for 6+ years. Working on Frontend technologies."
     },
     {
       "id": 2,
-      "text": "I value simplicity and first-principles thinking. Love working on interactive products no matter the backend/infra."
+      "text": "trying to build something useful for some people."
     }
   ],
   "skills": ["React JS", "HTML", "CSS"]

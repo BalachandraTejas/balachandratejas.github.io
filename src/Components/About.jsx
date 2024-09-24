@@ -7,7 +7,7 @@ function About() {
     // ref: https://www.toptal.com/resume/vladimir-mitrovic
     <article className="about">
       <header className="about-header">
-        <img className="about-img" src={about.image} alt={about.title} />
+        {/* <img className="about-img" src={about.image} alt={about.title} /> */}
         <section>
           <h1>{about.name}</h1>
           <h5>{about.role}</h5>
